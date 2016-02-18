@@ -19,6 +19,15 @@
 **Feb 7-11.**	Lorne - proteins structure and function (Lorne, AU)
   * http://www.lorneproteins.org/
 
+**Feb 15-18.**  Models for Protein Dynamics 1976-2016 (Lausanne, Switzerland)
+  * http://www.cecam.org/workshop-1116.html
+
+**Feb 15-16.** Advances and progress in drug design (London, UK)
+  * https://www.smi-online.co.uk/pharmaceuticals/uk/drug-design
+
+**Feb 16-19** Integrative methods in Structural Biology to enhance high impact research in health and disease (Montevideo, Uruguay)
+  * https://www.structuralbiology.eu/update/events/integrative-methods-in-structural-biology-to-enhance-high-impact-research-in-health-and-disease-392/
+
 **Feb 19.**	Schrodinger workshop "Computer Simulations of Macromolecules" (Innsbruck, Austria)
   * http://www.schrodinger.com/events/565/
 
@@ -67,6 +76,9 @@
 **Apr 25-26.**	Open Viz Conference (Boston, US)
   * https://openvisconf.com/#home
 
+**May 16-19** GLBIO/CCBC Great Lakes Bioinformatics and the Canadian Computational Biology Conference (Toronto, Canada)
+  * http://www.iscb.org/glbioccbc2016
+
 **May 17-20.**	Chemical Computing Group User Group Meeting & Conference 2016 Europe (Vienna, Austria)
   * http://www.chemcomp.com/UGM-2016-Europe.htm
 
@@ -85,14 +97,22 @@
 **Jul 4-6.**	Conference on cheminformatics (Sheffield, UK)
   * http://cisrg.shef.ac.uk/shef2016/
 
+**Jul 4-6.**    Australian symposium on Computationally Enhanced Materials Design – ACEMD (Sydney, Australia)
+  * http://www.ozenergyfuture.com/computational-symposium/
+
+**Jul 4-9.**    2nd joined Notre Dame-Heidelberg summer school in computational chemistry (Indiana, US)
+  * http://blogs.nd.edu/heidelbergatnd2016/
+
 **Jul 5-6.**	NSCCS Applied Computational Chemistry Workshop for Synthetic Chemists (London, UK)
   * http://www.nsccs.ac.uk/SC2016.php
 
 **Jul 16-19.**	30th Symposium of the Protein Society (Baltimore, US)
   * http://www.proteinsociety.org/meetings/symposium/
 
-**Jul 23-29.** Computational chemistry (Girona, Spain)
+**Jul 23-24.** Bridging Computation and Experiment at All Scales (Girona, Spain)
   * https://www.grc.org/programs.aspx?id=16462
+
+**Jul 24-29.** Theory and Simulation Across Scales in Molecular Science (Girona, Spain)
   * https://www.grc.org/programs.aspx?id=11141
 
 **Aug 7-9.** RosettaCon (Leavenworth, US)
