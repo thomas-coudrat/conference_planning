@@ -91,6 +91,9 @@
 **Jun 13-17.**	Workshop: Path Integral Quantum Mechanics: Theory, Simulation and Application (Lausanne, Switzerland)
   * http://www.cecam.org/workshop-0-1314.html
 
+**Jun 15-17.** OpenEye scientific EuroCUP IX (Nice, France)
+  * http://eyesopen.com/events/eurocup-ix
+
 **Jun 27-Jul 1.**	Strasbourg summer school in Cheminformatics (Strasbourg, France)
   * http://infochim.u-strasbg.fr/spip.php?rubrique181
 
