@@ -42,6 +42,8 @@
 
 **Mar 17-18.** [ICM User Group Meeting](http://www.molsoft.com/ugm2016.html) (San Diego, US)
 
+**Mar 30-Apr 1** [Theory and Experiment: A Meeting at the Interface](http://schleyersymposium.mgms-ds.de/) (Erlangen, Germany)
+
 **Apr 4-6.**	[30th Workshop on Molecular Modelling](http://mmws2016.mgms-ds.de/) (Erlangen, Germany)
 
 **Apr 6-8.**	[GLISTEN GPCR meeting](http://www.grk1910.de/glisten-2016.html) (Germany, Erlangen)
@@ -50,7 +52,11 @@
 
 **Apr 18-19.**	[Protein Congress](http://www.proteins-congress.com/) (London, UK)
 
+**Apr 24-27.** [An Introductory Workshop to the Rosetta Protein Modeling Suite](http://structbio.vanderbilt.edu/comp/workshops/rosetta_apr2016/) (Nashville, US)
+
 **Apr 25-26.**	[Open Viz Conference](https://openvisconf.com/#home) (Boston, US)
+
+**Apr 28.** [2016 Vanderbilt Symposium on Modeling Immunity](https://medschool.vanderbilt.edu/vvc/events/2016-vanderbilt-symposium-modeling-immunity) (Nashville, US)
 
 **May 16-19** [GLBIO/CCBC Great Lakes Bioinformatics and the Canadian Computational Biology Conference](http://www.iscb.org/glbioccbc2016) (Toronto, Canada)
 
