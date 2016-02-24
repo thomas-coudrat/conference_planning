@@ -40,6 +40,8 @@
 
 **Mar 15-16.** [Joint meeting with Physchem Forum](http://www.ukqsar.org/2015/09/23/spring-2016-meeting-joint-meeting-with-physchem-forum/)	(Stevenage, UK)
 
+**Mar 15-18.** [Schrödinger's 2nd European Life Science Bootcamp](https://www.schrodinger.com/events/566/) (online)
+
 **Mar 17-18.** [ICM User Group Meeting](http://www.molsoft.com/ugm2016.html) (San Diego, US)
 
 **Mar 30-Apr 1** [Theory and Experiment: A Meeting at the Interface](http://schleyersymposium.mgms-ds.de/) (Erlangen, Germany)
