@@ -28,6 +28,8 @@
 
 **Feb 27-Mar 2.**	[Biophysical Society Meeting 2016](https://www.biophysics.org/2016meeting/Main/tabid/6230/Default.aspx) (Los Angeles, US)
 
+**Mar 3.** [Quantum Chemical Discovery, Analysis, and Optimization of Reactivity in Homogeneous Catalysis with the Materials Science Suite](http://www.schrodinger.com/seminarcenter/64) (online)
+
 **Mar 7-11.**	[2nd Spring school in cheminformatics](http://www.dr-kirsten.de/springschool/) (Erlangen, Germany)
 
 **Mar 9-11.** [VIZBI](http://vizbi.org/2016/) (Heidelberg, Germany)
@@ -85,6 +87,8 @@
 **Jul 16-19.**	[30th Symposium of the Protein Society](http://www.proteinsociety.org/meetings/symposium/) (Baltimore, US)
 
 **Jul 23-24.** [Bridging Computation and Experiment at All Scales](https://www.grc.org/programs.aspx?id=16462) (Girona, Spain)
+
+**Jul 23-30.** [Quantum Monte Carlo and the CASINO program international summer school](https://vallico.net/casinoqmc/summer-schools/) (Vallico Sotto, Tuscany, Italy)
 
 **Jul 24-29.** [Theory and Simulation Across Scales in Molecular Science](https://www.grc.org/programs.aspx?id=11141) (Girona, Spain)
 
