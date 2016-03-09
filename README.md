@@ -28,6 +28,8 @@
 
 **Feb 27-Mar 2.**	[Biophysical Society Meeting 2016](https://www.biophysics.org/2016meeting/Main/tabid/6230/Default.aspx) (Los Angeles, US)
 
+**Feb 29 -Mar 2.** [Multiscale methods for stochastic dynamical systems in biology](http://www.icms.org.uk/workshop.php?id=361) (Cambridge, UK)
+
 **Mar 3.** [Quantum Chemical Discovery, Analysis, and Optimization of Reactivity in Homogeneous Catalysis with the Materials Science Suite](http://www.schrodinger.com/seminarcenter/64) (online)
 
 **Mar 7-11.**	[2nd Spring school in cheminformatics](http://www.dr-kirsten.de/springschool/) (Erlangen, Germany)
@@ -74,9 +76,11 @@
 
 **Jun 15-17.** [OpenEye scientific EuroCUP IX](http://eyesopen.com/events/eurocup-ix) (Nice, France)
 
+**Jun 26-Jul 6** [The 8th Molecular Quantum Mechanics](http://www-conference.slu.se/mqm2016/) (Uppsala, Sweeden)
+
 **Jun 27-Jul 1.**	[Strasbourg summer school in Cheminformatics](http://infochim.u-strasbg.fr/spip.php?rubrique181) (Strasbourg, France)
 
-**Jul 4-6.**	[Conference on cheminformatics](http://cisrg.shef.ac.uk/shef2016/) (Sheffield, UK)
+**Jul 4-6.**	[Seventh Joint Sheffield Conference on Chemoinformatics](http://cisrg.shef.ac.uk/shef2016/) (Sheffield, UK)
 
 **Jul 4-6.**  [Australian symposium on Computationally Enhanced Materials Design – ACEMD](http://www.ozenergyfuture.com/computational-symposium/) (Sydney, Australia)
 
@@ -85,6 +89,8 @@
 **Jul 5-6.**	[NSCCS Applied Computational Chemistry Workshop for Synthetic Chemists](http://www.nsccs.ac.uk/SC2016.php) (London, UK)
 
 **Jul 16-19.**	[30th Symposium of the Protein Society](http://www.proteinsociety.org/meetings/symposium/) (Baltimore, US)
+
+**Jul 17-22.** [Ninth Congress of the International Society for Theoretical Chemical Physics](http://istcp-2016.org/)
 
 **Jul 23-24.** [Bridging Computation and Experiment at All Scales](https://www.grc.org/programs.aspx?id=16462) (Girona, Spain)
 
@@ -100,4 +106,8 @@
 
 **Sept 29-30.**	[In Silico Conference](http://www.insiliconf.org/) (San Diego, US)
 
-**Oct 26-28.** [RDKit User Group Meeting](http://www.mail-archive.com/rdkit-discuss@lists.sourceforge.net/msg05260.html) (Basel, Switzerland)
+**Oct 26-28.** [RDKit User Group Meeting](https://www.eventbrite.com/e/5th-rdkit-user-group-meeting-tickets-22539677783) (Basel, Switzerland)
+
+### 2017
+
+**Aug 27-Sept 1.** [11th Triennial Congress of the World Association of Theoretical and Computational Chemists](http://www.watoc2017.com/home.html) (Munich, Germany)
