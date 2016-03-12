@@ -54,7 +54,11 @@
 
 **Apr 6-8.**	[GLISTEN GPCR meeting](http://www.grk1910.de/glisten-2016.html) (Germany, Erlangen)
 
+**Apr 11.** [Streamlining Drug Discovery and Development](http://www.lhasalimited.org/boston-symposium.htm) (Boston, US)
+
 **Apr 13-15.**	[2nd Conference on Multiscale Modelling of Condensed Phase and Biological Systems](http://www.ccpbiosim.ac.uk/multiscale2016) (Manchester, UK)
+
+**Apr 14.** [Streamlining Drug Discovery and Development](http://www.lhasalimited.org/events/san-francisco-symposium-2.htm) (San Francisco, US)
 
 **Apr 18-19.**	[Protein Congress](http://www.proteins-congress.com/) (London, UK)
 
