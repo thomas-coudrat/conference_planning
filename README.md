@@ -94,6 +94,8 @@
 
 **Jul 16-19.**	[30th Symposium of the Protein Society](http://www.proteinsociety.org/meetings/symposium/) (Baltimore, US)
 
+**Jul 19-.21** [Protein Electrostatics Berlin 2016](http://www.electrostatics-berlin.de/) (Berlin, Germany)
+
 **Jul 17-22.** [Ninth Congress of the International Society for Theoretical Chemical Physics](http://istcp-2016.org/)
 
 **Jul 23-24.** [Bridging Computation and Experiment at All Scales](https://www.grc.org/programs.aspx?id=16462) (Girona, Spain)
