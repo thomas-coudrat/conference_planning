@@ -100,6 +100,8 @@
 
 **Jul 23-24.** [Bridging Computation and Experiment at All Scales](https://www.grc.org/programs.aspx?id=16462) (Girona, Spain)
 
+**Jul 23-25.** [Advancing the Frontiers of (Bio)Chemistry with Valence Bond Approaches](https://www.fourwav.es/view/192/info/) (Uppsala, Sweeden)
+
 **Jul 23-30.** [Quantum Monte Carlo and the CASINO program international summer school](https://vallico.net/casinoqmc/summer-schools/) (Vallico Sotto, Tuscany, Italy)
 
 **Jul 24-29.** [Theory and Simulation Across Scales in Molecular Science](https://www.grc.org/programs.aspx?id=11141) (Girona, Spain)
