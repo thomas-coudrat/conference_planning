@@ -48,6 +48,8 @@
 
 **Mar 17-18.** [ICM User Group Meeting](http://www.molsoft.com/ugm2016.html) (San Diego, US)
 
+**Mar 22.** [Science and Open PHACTS: SureChEMBL Patent Annotations](https://attendee.gotowebinar.com/register/2792092504079134721) (online)
+
 **Mar 30-Apr 1** [Theory and Experiment: A Meeting at the Interface](http://schleyersymposium.mgms-ds.de/) (Erlangen, Germany)
 
 **Apr 4-6.**	[30th Workshop on Molecular Modelling](http://mmws2016.mgms-ds.de/) (Erlangen, Germany)
@@ -67,6 +69,8 @@
 **Apr 25-26.**	[Open Viz Conference](https://openvisconf.com/#home) (Boston, US)
 
 **Apr 28.** [2016 Vanderbilt Symposium on Modeling Immunity](https://medschool.vanderbilt.edu/vvc/events/2016-vanderbilt-symposium-modeling-immunity) (Nashville, US)
+
+**May 3-4.** [Bioexcel: addressing training needs for advanced simulations in biomolecular research](http://www.ebi.ac.uk/training/events/2016/bioexcel-addressing-training-needs-advanced-simulations-biomolecular-research) (Cambridge, UK)
 
 **May 16-19** [GLBIO/CCBC Great Lakes Bioinformatics and the Canadian Computational Biology Conference](http://www.iscb.org/glbioccbc2016) (Toronto, Canada)
 
@@ -97,6 +101,8 @@
 **Jul 19-.21** [Protein Electrostatics Berlin 2016](http://www.electrostatics-berlin.de/) (Berlin, Germany)
 
 **Jul 17-22.** [Ninth Congress of the International Society for Theoretical Chemical Physics](http://istcp-2016.org/)
+
+**Jul 22-26.** [American Crystallographic Association 66th annual meeting - workshops](http://www.amercrystalassn.org/2016-workshops) (Denver, US)
 
 **Jul 23-24.** [Bridging Computation and Experiment at All Scales](https://www.grc.org/programs.aspx?id=16462) (Girona, Spain)
 
