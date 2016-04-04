@@ -118,6 +118,8 @@
 
 **Aug 28-Sept 1.** [Medicinal chemistry](http://www.ldorganisation.com/v2/produits.php?cle_menus=1238915829) (Manchester, UK)
 
+**Sept 4-8.** [21st European Symposium on Quantitative Structure-Activity Relationship](http://www.ldorganisation.com/v2/produits.php?cle_menus=1238915962) (Verona, Italy)
+
 **Sept 11-23.**	[7th Time-Dependent Density-Functional Theory: Prospects and Applications](http://www.benasque.org/2016tddft/) (Benasque, Spain)
 
 **Sept 29-30.**	[In Silico Conference](http://www.insiliconf.org/) (San Diego, US)
