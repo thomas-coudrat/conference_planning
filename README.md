@@ -96,6 +96,8 @@
 
 **Jul 5-6.**	[NSCCS Applied Computational Chemistry Workshop for Synthetic Chemists](http://www.nsccs.ac.uk/SC2016.php) (London, UK)
 
+**Jul 7.** [Melbourne Protein Group Student Symposium](http://mpg.org.au/mpg-student-symposium/program/) (Melbourne, AU)
+
 **Jul 16-19.**	[30th Symposium of the Protein Society](http://www.proteinsociety.org/meetings/symposium/) (Baltimore, US)
 
 **Jul 19-.21** [Protein Electrostatics Berlin 2016](http://www.electrostatics-berlin.de/) (Berlin, Germany)
