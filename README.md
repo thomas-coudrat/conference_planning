@@ -82,6 +82,8 @@
 
 **May 17-20.**	[Chemical Computing Group User Group Meeting & Conference 2016 Europe](http://www.chemcomp.com/UGM-2016-Europe.htm) (Vienna, Austria)
 
+**May 23-27.** [DynaMol 2016: Dynamique moléculaire, de l'atomistique à l'échelle meso](http://dynamol2016.sciencesconf.org/) (Paris, France)
+
 **Jun 6-8.**	[Computational Chemistry and its Application](http://sites.uom.ac.mu/cca/) (San Diego, US)
 
 **Jun 13-17.**	[SAMSON summer school](https://www.facebook.com/SAMSON.Connect/posts/458465014361625?_rdr=p) (Aix-les-Bains, France)
