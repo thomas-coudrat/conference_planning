@@ -50,6 +50,8 @@
 
 **Mar 22.** [Science and Open PHACTS: SureChEMBL Patent Annotations](https://attendee.gotowebinar.com/register/2792092504079134721) (online)
 
+**Mar 30.** [SciCloud 2016 - Innovation in the pharmaceutical industry](https://www.mindthebyte.com/news-press/news/scicloud-2016-will-discuss-about-the-innovation-in-the-pharma-industry/)
+
 **Mar 30-Apr 1** [Theory and Experiment: A Meeting at the Interface](http://schleyersymposium.mgms-ds.de/) (Erlangen, Germany)
 
 **Apr 4-6.**	[30th Workshop on Molecular Modelling](http://mmws2016.mgms-ds.de/) (Erlangen, Germany)
@@ -72,7 +74,11 @@
 
 **May 3-4.** [Bioexcel: addressing training needs for advanced simulations in biomolecular research](http://www.ebi.ac.uk/training/events/2016/bioexcel-addressing-training-needs-advanced-simulations-biomolecular-research) (Cambridge, UK)
 
-**May 16-19** [GLBIO/CCBC Great Lakes Bioinformatics and the Canadian Computational Biology Conference](http://www.iscb.org/glbioccbc2016) (Toronto, Canada)
+**May 16-18.** [2016 Workshop on Free Energy Methods in Drug Design: Targeting Cancer](http://www.alchemistry.org/wiki/2016_Workshop_on_Free_Energy_Methods_in_Drug_Design:_Targeting_Cancer) (Boston, US)
+
+**May 16-19.** [GLBIO/CCBC Great Lakes Bioinformatics and the Canadian Computational Biology Conference](http://www.iscb.org/glbioccbc2016) (Toronto, Canada)
+
+**May 19-20.** [2016 Workshop on Kinetics and Markov State Models in Drug Design](http://www.alchemistry.org/wiki/2016_Workshop_on_Kinetics_and_Markov_State_Models_in_Drug_Design) (Boston, US)
 
 **May 17-20.**	[Chemical Computing Group User Group Meeting & Conference 2016 Europe](http://www.chemcomp.com/UGM-2016-Europe.htm) (Vienna, Austria)
 
