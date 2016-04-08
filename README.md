@@ -136,4 +136,6 @@
 
 ### 2017
 
+**Jan 3-7.** [Pacific Symposium on Biocomputing (PSB) 2017](http://psb.stanford.edu/) (Hawaii, US)
+
 **Aug 27-Sept 1.** [11th Triennial Congress of the World Association of Theoretical and Computational Chemists](http://www.watoc2017.com/home.html) (Munich, Germany)
