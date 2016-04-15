@@ -84,6 +84,8 @@
 
 **May 23-27.** [DynaMol 2016: Dynamique moléculaire, de l'atomistique à l'échelle meso](http://dynamol2016.sciencesconf.org/) (Paris, France)
 
+**Jun 4-11.** [From Solid State to Biophysics VIII: from Basic to Life Sciences](http://dubrovnik.epfl.ch/) (Dubrovnik, Croatia)
+
 **Jun 6-8.**	[Computational Chemistry and its Application](http://sites.uom.ac.mu/cca/) (San Diego, US)
 
 **Jun 13-17.**	[SAMSON summer school](https://www.facebook.com/SAMSON.Connect/posts/458465014361625?_rdr=p) (Aix-les-Bains, France)
