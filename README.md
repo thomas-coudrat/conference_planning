@@ -92,6 +92,8 @@
 
 **Jun 6-8.**	[Computational Chemistry and its Application](http://sites.uom.ac.mu/cca/) (San Diego, US)
 
+**Jun 6-10.** [CCPBioSim Training Week](http://www.ccpbiosim.ac.uk/training-week-2016) (Bristol, UK)
+
 **Jun 13-17.**	[SAMSON summer school](https://www.facebook.com/SAMSON.Connect/posts/458465014361625?_rdr=p) (Aix-les-Bains, France)
 
 **Jun 13-17.**	[Workshop: Path Integral Quantum Mechanics: Theory, Simulation and Application](http://www.cecam.org/workshop-0-1314.html) (Lausanne, Switzerland)
