@@ -70,6 +70,8 @@
 
 **Apr 25-26.**	[Open Viz Conference](https://openvisconf.com/#home) (Boston, US)
 
+**Apr 28.** [MOE Workshop](http://www.chemcomp.com/Workshops-Europe-2016.htm) (Munich, Germany)
+
 **Apr 28.** [2016 Vanderbilt Symposium on Modeling Immunity](https://medschool.vanderbilt.edu/vvc/events/2016-vanderbilt-symposium-modeling-immunity) (Nashville, US)
 
 **May 3-4.** [Bioexcel: addressing training needs for advanced simulations in biomolecular research](http://www.ebi.ac.uk/training/events/2016/bioexcel-addressing-training-needs-advanced-simulations-biomolecular-research) (Cambridge, UK)
@@ -83,6 +85,8 @@
 **May 17-20.**	[Chemical Computing Group User Group Meeting & Conference 2016 Europe](http://www.chemcomp.com/UGM-2016-Europe.htm) (Vienna, Austria)
 
 **May 23-27.** [DynaMol 2016: Dynamique moléculaire, de l'atomistique à l'échelle meso](http://dynamol2016.sciencesconf.org/) (Paris, France)
+
+**May 24-25.** [ChemAxon’s 12th European Annual Meeting](https://www.chemaxon.com/events/annual-meeting-budapest-2016) (Budapest, Hungary)
 
 **Jun 4-11.** [From Solid State to Biophysics VIII: from Basic to Life Sciences](http://dubrovnik.epfl.ch/) (Dubrovnik, Croatia)
 
