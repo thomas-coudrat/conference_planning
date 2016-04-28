@@ -76,7 +76,7 @@
 
 **May 3-4.** [Bioexcel: addressing training needs for advanced simulations in biomolecular research](http://www.ebi.ac.uk/training/events/2016/bioexcel-addressing-training-needs-advanced-simulations-biomolecular-research) (Cambridge, UK)
 
-***May 5.* [FreeForm: Rethinking Ligand Strain"](http://us2.campaign-archive1.com/?u=15a4873ed77c41435c5cce6ee&id=5a8b4012d9) (Online)
+***May 5.** [FreeForm: Rethinking Ligand Strain"](http://us2.campaign-archive1.com/?u=15a4873ed77c41435c5cce6ee&id=5a8b4012d9) (Online)
 
 **May 16-18.** [2016 Workshop on Free Energy Methods in Drug Design: Targeting Cancer](http://www.alchemistry.org/wiki/2016_Workshop_on_Free_Energy_Methods_in_Drug_Design:_Targeting_Cancer) (Boston, US)
 
