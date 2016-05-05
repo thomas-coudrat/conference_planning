@@ -78,6 +78,8 @@
 
 ***May 5.** [FreeForm: Rethinking Ligand Strain"](http://us2.campaign-archive1.com/?u=15a4873ed77c41435c5cce6ee&id=5a8b4012d9) (Online)
 
+**May 16.** [5th Bluegrass Molecular Biophysics Symposium](https://sites.google.com/site/bluegrassbiophys/) (Lexington, KY, US)
+
 **May 16-18.** [2016 Workshop on Free Energy Methods in Drug Design: Targeting Cancer](http://www.alchemistry.org/wiki/2016_Workshop_on_Free_Energy_Methods_in_Drug_Design:_Targeting_Cancer) (Boston, US)
 
 **May 16-19.** [GLBIO/CCBC Great Lakes Bioinformatics and the Canadian Computational Biology Conference](http://www.iscb.org/glbioccbc2016) (Toronto, Canada)
@@ -90,6 +92,8 @@
 
 **May 24-25.** [ChemAxon’s 12th European Annual Meeting](https://www.chemaxon.com/events/annual-meeting-budapest-2016) (Budapest, Hungary)
 
+**Jun 1.** [Cresset North American User Group Meeting 2016](http://www.cresset-group.com/north-american-user-group-meeting-2016/) (Cambridge, MA, US)
+
 **Jun 4-11.** [From Solid State to Biophysics VIII: from Basic to Life Sciences](http://dubrovnik.epfl.ch/) (Dubrovnik, Croatia)
 
 **Jun 6-8.**	[Computational Chemistry and its Application](http://sites.uom.ac.mu/cca/) (San Diego, US)
@@ -101,6 +105,8 @@
 **Jun 13-17.**	[Workshop: Path Integral Quantum Mechanics: Theory, Simulation and Application](http://www.cecam.org/workshop-0-1314.html) (Lausanne, Switzerland)
 
 **Jun 15-17.** [OpenEye scientific EuroCUP IX](http://eyesopen.com/events/eurocup-ix) (Nice, France)
+
+**Jun 16-17.** [Cresset European User Group Meeting 2016](http://www.cresset-group.com/european-user-group-meeting-2016/) (Cambridge, UK)
 
 **Jun 20-21.** [Protein Modelling and Structure-Based Function Prediction](https://www.biochemistry.org/Events/tabid/379/MeetingNo/TD010/view/Conference/Default.aspx) (Liverpool, UK)
 
