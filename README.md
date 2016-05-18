@@ -110,6 +110,8 @@
 
 **Jun 20-21.** [Protein Modelling and Structure-Based Function Prediction](https://www.biochemistry.org/Events/tabid/379/MeetingNo/TD010/view/Conference/Default.aspx) (Liverpool, UK)
 
+**Jun 26-29.** [28th Annual Workshop on Recent Developments in Electronic Structure Methods](http://es16.unm.edu/) (Albuquerque, NM, US)
+
 **Jun 26-Jul 6** [The 8th Molecular Quantum Mechanics](http://www-conference.slu.se/mqm2016/) (Uppsala, Sweeden)
 
 **Jun 27-Jul 1.**	[Strasbourg summer school in Cheminformatics](http://infochim.u-strasbg.fr/spip.php?rubrique181) (Strasbourg, France)
