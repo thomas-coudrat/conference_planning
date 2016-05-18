@@ -126,6 +126,8 @@
 
 **Jul 7.** [Melbourne Protein Group Student Symposium](http://mpg.org.au/mpg-student-symposium/program/) (Melbourne, AU)
 
+**Jul 8-11.** [Sequence-Structure hackathon at ISMB Orlando 2016](http://www.ncbi.nlm.nih.gov/news/05-10-2016-sequence-structure-hackathon-ismb2016/) (Orlando, FL, US)
+
 **Jul 16-19.**	[30th Symposium of the Protein Society](http://www.proteinsociety.org/meetings/symposium/) (Baltimore, US)
 
 **Jul 19-.21** [Protein Electrostatics Berlin 2016](http://www.electrostatics-berlin.de/) (Berlin, Germany)
