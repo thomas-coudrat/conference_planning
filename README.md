@@ -108,6 +108,8 @@
 
 **Jun 16-17.** [Cresset European User Group Meeting 2016](http://www.cresset-group.com/european-user-group-meeting-2016/) (Cambridge, UK)
 
+**Jun 16-17.** [Property-Based Drug Design in Medicinal Chemistry](http://www.worldpreclinicalcongress.com/Property-Based-Drug-Design/) (Boston, MA, US)
+
 **Jun 20-21.** [Protein Modelling and Structure-Based Function Prediction](https://www.biochemistry.org/Events/tabid/379/MeetingNo/TD010/view/Conference/Default.aspx) (Liverpool, UK)
 
 **Jun 26-29.** [28th Annual Workshop on Recent Developments in Electronic Structure Methods](http://es16.unm.edu/) (Albuquerque, NM, US)
