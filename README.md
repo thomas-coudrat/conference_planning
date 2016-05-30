@@ -76,7 +76,7 @@
 
 **May 3-4.** [Bioexcel: addressing training needs for advanced simulations in biomolecular research](http://www.ebi.ac.uk/training/events/2016/bioexcel-addressing-training-needs-advanced-simulations-biomolecular-research) (Cambridge, UK)
 
-***May 5.** [FreeForm: Rethinking Ligand Strain"](http://us2.campaign-archive1.com/?u=15a4873ed77c41435c5cce6ee&id=5a8b4012d9) (Online)
+**May 5.** [FreeForm: Rethinking Ligand Strain"](http://us2.campaign-archive1.com/?u=15a4873ed77c41435c5cce6ee&id=5a8b4012d9) (Online)
 
 **May 16.** [5th Bluegrass Molecular Biophysics Symposium](https://sites.google.com/site/bluegrassbiophys/) (Lexington, KY, US)
 
@@ -89,6 +89,8 @@
 **May 17-20.**	[Chemical Computing Group User Group Meeting & Conference 2016 Europe](http://www.chemcomp.com/UGM-2016-Europe.htm) (Vienna, Austria)
 
 **May 23-27.** [DynaMol 2016: Dynamique moléculaire, de l'atomistique à l'échelle meso](http://dynamol2016.sciencesconf.org/) (Paris, France)
+
+**May 24.** [CompChemKitchen - Computational Chemistry in Oxford](http://compchemkitchen.org/) (Oxford, UK)
 
 **May 24-25.** [ChemAxon’s 12th European Annual Meeting](https://www.chemaxon.com/events/annual-meeting-budapest-2016) (Budapest, Hungary)
 
@@ -117,6 +119,8 @@
 **Jun 26-Jul 6** [The 8th Molecular Quantum Mechanics](http://www-conference.slu.se/mqm2016/) (Uppsala, Sweeden)
 
 **Jun 27-Jul 1.**	[Strasbourg summer school in Cheminformatics](http://infochim.u-strasbg.fr/spip.php?rubrique181) (Strasbourg, France)
+
+**Jul 2-9.** [Twenty-first International Workshop on Quantum Systems in Chemistry, Physics, and Biology](https://groups.chem.ubc.ca/qscp/) (Vancouver, Canada)
 
 **Jul 4-6.**	[Seventh Joint Sheffield Conference on Chemoinformatics](http://cisrg.shef.ac.uk/shef2016/) (Sheffield, UK)
 
@@ -160,8 +164,12 @@
 
 **Oct 26-28.** [RDKit User Group Meeting](https://www.eventbrite.com/e/5th-rdkit-user-group-meeting-tickets-22539677783) (Basel, Switzerland)
 
+**Dec 1-2.** [Australian Symposium on Computational Chemistry](http://ascc16.weebly.com/) (Perth, Australia)
+
 ### 2017
 
 **Jan 3-7.** [Pacific Symposium on Biocomputing (PSB) 2017](http://psb.stanford.edu/) (Hawaii, US)
+
+**Feb 5-9.** [The 42nd Lorne Conference on Protein Structure and Function](http://www.lorneproteins.org/) (Lorne, Australia)
 
 **Aug 27-Sept 1.** [11th Triennial Congress of the World Association of Theoretical and Computational Chemists](http://www.watoc2017.com/home.html) (Munich, Germany)
