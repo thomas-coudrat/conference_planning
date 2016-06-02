@@ -8,6 +8,8 @@
 
 **Jan 25-28.**	[Asia-Pacific Conference of Theoretical and Computational Chemistry](http://phys.cts.nthu.edu.tw/actnews/content.php?Sn=269) (Kaohsiung, Taiwan)
 
+**Jan 27-28.** [WORKSHOP: Modeling and Dynamics in Molecular Biophysics](http://physicsoflivingsystems.org/events/workshop-modeling-and-dynamics-in-molecular-biophysics-january-26-27-28-2016/) (Arlington, VA, USA)
+
 **Feb 3-9.**	[Winterschool in computational chemistry](http://winterschool.cc/) (online)
 
 **Feb 4-8.**	[Pacific Symposium on Biocomputing](http://psb.stanford.edu/) (Hawaii, US)
@@ -161,6 +163,8 @@
 **Sept 11-23.**	[7th Time-Dependent Density-Functional Theory: Prospects and Applications](http://www.benasque.org/2016tddft/) (Benasque, Spain)
 
 **Sept 29-30.**	[In Silico Conference](http://www.insiliconf.org/) (San Diego, US)
+
+**Oct 12.** [Cheminformatics for Drug Design: Data, Models and Tools](https://www.soci.org/Events/Display-Event?EventCode=FCHEM481) (Duxford, UK)
 
 **Oct 26-28.** [RDKit User Group Meeting](https://www.eventbrite.com/e/5th-rdkit-user-group-meeting-tickets-22539677783) (Basel, Switzerland)
 
