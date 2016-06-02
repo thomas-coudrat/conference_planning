@@ -164,6 +164,10 @@
 
 **Oct 26-28.** [RDKit User Group Meeting](https://www.eventbrite.com/e/5th-rdkit-user-group-meeting-tickets-22539677783) (Basel, Switzerland)
 
+**Nov 7-10.** [ESBS2016 Workshop - Excited States Simulations: Bridging Scales](http://icr-amu.cnrs.fr/tct/esbs2016/) (Marseille, France)
+
+**Nov 20-25.** [QUITEL 2016: Congress of Theoretical Chemists of Latin Expression](http://quitel2016.org.uy/en/) (Montevideo, Uruguay)
+
 **Dec 1-2.** [Australian Symposium on Computational Chemistry](http://ascc16.weebly.com/) (Perth, Australia)
 
 ### 2017
