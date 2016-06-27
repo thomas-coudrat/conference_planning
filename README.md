@@ -98,11 +98,20 @@
 
 **Jun 1.** [Cresset North American User Group Meeting 2016](http://www.cresset-group.com/north-american-user-group-meeting-2016/) (Cambridge, MA, US)
 
+**Jun 4.** [1st SoCal TheoChem Symposium](http://yuenzhougroup.ucsd.edu/conference/index.html) (La Jolla, CA, US)
+
 **Jun 4-11.** [From Solid State to Biophysics VIII: from Basic to Life Sciences](http://dubrovnik.epfl.ch/) (Dubrovnik, Croatia)
 
 **Jun 6-8.**	[Computational Chemistry and its Application](http://sites.uom.ac.mu/cca/) (San Diego, US)
 
 **Jun 6-10.** [CCPBioSim Training Week](http://www.ccpbiosim.ac.uk/training-week-2016) (Bristol, UK)
+
+**Jun 7-10.** [3rd NovAliX Conference
+Biophysics in Drug Discovery 2016](http://www.ldorganisation.com/v2/produits.php?langue=english&cle_menus=1238916168) (Strasbourg, France)
+
+**Jun 13.** [Molecular Simulation at Bristol](http://www.bristol.ac.uk/chemistry/events/2016/molecular-simulation-at-bristol.html) (Bristol, UK)
+
+**Jun 13-15.** [6th RSC / SCI symposium on GPCRs in Medicinal Chemistry](http://www.rsc.org/events/detail/18631/6th-rsc-sci-symposium-on-gpcrs-in-medicinal-chemistry) (Verona, Italy)
 
 **Jun 13-17.**	[SAMSON summer school](https://www.facebook.com/SAMSON.Connect/posts/458465014361625?_rdr=p) (Aix-les-Bains, France)
 
@@ -121,6 +130,8 @@
 **Jun 26-Jul 6** [The 8th Molecular Quantum Mechanics](http://www-conference.slu.se/mqm2016/) (Uppsala, Sweeden)
 
 **Jun 27-Jul 1.**	[Strasbourg summer school in Cheminformatics](http://infochim.u-strasbg.fr/spip.php?rubrique181) (Strasbourg, France)
+
+**Jun 29.** [Molsoft webinar: Scarab – Data Capture, Integrator and Miner](https://attendee.gotowebinar.com/register/6166229809327437569) (Online)
 
 **Jul 2-9.** [Twenty-first International Workshop on Quantum Systems in Chemistry, Physics, and Biology](https://groups.chem.ubc.ca/qscp/) (Vancouver, Canada)
 
@@ -152,9 +163,17 @@
 
 **Jul 24-29.** [Theory and Simulation Across Scales in Molecular Science](https://www.grc.org/programs.aspx?id=11141) (Girona, Spain)
 
+**Jul 25-28.** [CCPN / CCPBioSim joint conference 2016](http://www.ccpn.ac.uk/meetings/upcoming-meetings/ccpn-ccpbiosim-joint-conference-buxton-2016/ccpn-ccp-biosim-joint-conference-2016) (Buxton, UK)
+
 **Aug 7-9.** [RosettaCon](http://www.rosettadesigngroup.com/rosettacon/) (Leavenworth, US)
 
+**Aug 19.** [QuantumWise: ATK hands-on workshop](http://quantumwise.com/publications/quantumwise-news/item/956-hands-on-workshop-in-copenhagen-denmark) (Copenhagen, Netherlands)
+
 **Aug 28-Sept 1.** [Medicinal chemistry](http://www.ldorganisation.com/v2/produits.php?cle_menus=1238915829) (Manchester, UK)
+
+**Aug 23-26.** [CP2K: Summer School 2016](https://www.epcc.ed.ac.uk/cp2k-summer-school-2016) (London, UK)
+
+**Sept 4.** [BioExcel 1st Annual Meeting: “Advanced Simulations for Biomolecular Research” SIG @ ECCB 2016](http://bioexcel.eu/events/sig-bioexcel-1/) (The Hague, Netherlands)
 
 **Sept 4-8.** [21st European Symposium on Quantitative Structure-Activity Relationship](http://www.ldorganisation.com/v2/produits.php?cle_menus=1238915962) (Verona, Italy)
 
@@ -162,7 +181,13 @@
 
 **Sept 11-23.**	[7th Time-Dependent Density-Functional Theory: Prospects and Applications](http://www.benasque.org/2016tddft/) (Benasque, Spain)
 
+**Sept 20-23.** [Structural Bioinformatics 2016](http://www.ebi.ac.uk/training/events/2016/structural-bioinformatics-2016) (Cambridge, UK)
+
 **Sept 29-30.**	[In Silico Conference](http://www.insiliconf.org/) (San Diego, US)
+
+**Oct 10-14.** [COLUMBUS in China - CiC 
+An Advanced Quantum Chemistry Workshop on Multireference Methods, 
+Energy Surface, Polyradical Systems and Excited States ](http://oban.spst.tju.edu.cn/CiC/index.html) (Tianjin, China)
 
 **Oct 12.** [Cheminformatics for Drug Design: Data, Models and Tools](https://www.soci.org/Events/Display-Event?EventCode=FCHEM481) (Duxford, UK)
 
@@ -179,5 +204,9 @@
 **Jan 3-7.** [Pacific Symposium on Biocomputing (PSB) 2017](http://psb.stanford.edu/) (Hawaii, US)
 
 **Feb 5-9.** [The 42nd Lorne Conference on Protein Structure and Function](http://www.lorneproteins.org/) (Lorne, Australia)
+
+**Apr 21-25.** [3rd Computational Chemistry (CC) Symposium](https://sites.google.com/site/cc2017iccmse/) (Thessalonki, Greece)
+
+**Jul 11-14.** [17th European Seminar on Computational Methods in Quantum Chemistry](http://www.escmqc2017.org/) (Shropshire, England)
 
 **Aug 27-Sept 1.** [11th Triennial Congress of the World Association of Theoretical and Computational Chemists](http://www.watoc2017.com/home.html) (Munich, Germany)
