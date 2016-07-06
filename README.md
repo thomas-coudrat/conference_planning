@@ -1,6 +1,10 @@
 ## Conferences/Workshops for computational chemistry and in silico drug discovery
 
   > Please comment/submit pull request if you'd like to add information not displayed here
+  
+### 2015
+
+**June 25-26** [XXXI Annual Meeting of Reference Network of R+D+i on Theoretical and Computational Chemistry](http://stark.udg.edu/31xrqtc/) (Girona, Spain)
 
 ### 2016
 
@@ -66,6 +70,8 @@
 
 **Apr 14.** [Streamlining Drug Discovery and Development](http://www.lhasalimited.org/events/san-francisco-symposium-2.htm) (San Francisco, US)
 
+**Apr 17-20.** [Girona Seminar - Predictive Catalysis: Transition-Metal Reaction by Design](http://www.gironaseminar.com/) (Girona, Spain)
+
 **Apr 18-19.**	[Protein Congress](http://www.proteins-congress.com/) (London, UK)
 
 **Apr 24-27.** [An Introductory Workshop to the Rosetta Protein Modeling Suite](http://structbio.vanderbilt.edu/comp/workshops/rosetta_apr2016/) (Nashville, US)
@@ -127,13 +133,19 @@ Biophysics in Drug Discovery 2016](http://www.ldorganisation.com/v2/produits.php
 
 **Jun 26-29.** [28th Annual Workshop on Recent Developments in Electronic Structure Methods](http://es16.unm.edu/) (Albuquerque, NM, US)
 
+**Jun 26-30.** [Modeling and Design of Molecular Materials 2016](https://mdmm.pl/2016/) (Trzebnica, Poland)
+
 **Jun 26-Jul 6** [The 8th Molecular Quantum Mechanics](http://www-conference.slu.se/mqm2016/) (Uppsala, Sweeden)
 
 **Jun 27-Jul 1.**	[Strasbourg summer school in Cheminformatics](http://infochim.u-strasbg.fr/spip.php?rubrique181) (Strasbourg, France)
 
+**Jun 28-Jul 1.** [17th Tetrahedron Symposium: Challenges in Biological, Bioorganic, Organic & Medicinal Chemistry ](http://www.tetrahedron-symposium.elsevier.com/) (Barcelona, Spain)
+
 **Jun 29.** [Molsoft webinar: Scarab – Data Capture, Integrator and Miner](https://attendee.gotowebinar.com/register/6166229809327437569) (Online)
 
 **Jul 2-9.** [Twenty-first International Workshop on Quantum Systems in Chemistry, Physics, and Biology](https://groups.chem.ubc.ca/qscp/) (Vancouver, Canada)
+
+**Jul 4-5** [XXXII Annual Meeting of the Reference Network on Theoretical and Computational Chemistry](http://www.xrqtc.com/xxxiireunio/) (Barcelona, Spain)
 
 **Jul 4-6.**	[Seventh Joint Sheffield Conference on Chemoinformatics](http://cisrg.shef.ac.uk/shef2016/) (Sheffield, UK)
 
@@ -146,6 +158,8 @@ Biophysics in Drug Discovery 2016](http://www.ldorganisation.com/v2/produits.php
 **Jul 7.** [Melbourne Protein Group Student Symposium](http://mpg.org.au/mpg-student-symposium/program/) (Melbourne, AU)
 
 **Jul 8-11.** [Sequence-Structure hackathon at ISMB Orlando 2016](http://www.ncbi.nlm.nih.gov/news/05-10-2016-sequence-structure-hackathon-ismb2016/) (Orlando, FL, US)
+
+**Jul 13.** [Curtin Institute for Computation Research Seminar - Visualisation, Virtual Reality and Virtual Heritage](http://us13.campaign-archive2.com/?u=038433f27b4e111d659fe9d13&id=98c2f8841d) (Perth, Australia)
 
 **Jul 16-19.**	[30th Symposium of the Protein Society](http://www.proteinsociety.org/meetings/symposium/) (Baltimore, US)
 
@@ -190,6 +204,8 @@ An Advanced Quantum Chemistry Workshop on Multireference Methods,
 Energy Surface, Polyradical Systems and Excited States ](http://oban.spst.tju.edu.cn/CiC/index.html) (Tianjin, China)
 
 **Oct 12.** [Cheminformatics for Drug Design: Data, Models and Tools](https://www.soci.org/Events/Display-Event?EventCode=FCHEM481) (Duxford, UK)
+
+**Oct 13-15.** [4th International Bahçeşehir University (BAU) Drug Design Congress](http://baudrugdesign.com/) (Istanbul, Turkey)
 
 **Oct 26-28.** [RDKit User Group Meeting](https://www.eventbrite.com/e/5th-rdkit-user-group-meeting-tickets-22539677783) (Basel, Switzerland)
 
