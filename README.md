@@ -179,6 +179,8 @@ Biophysics in Drug Discovery 2016](http://www.ldorganisation.com/v2/produits.php
 
 **Jul 25-28.** [CCPN / CCPBioSim joint conference 2016](http://www.ccpn.ac.uk/meetings/upcoming-meetings/ccpn-ccpbiosim-joint-conference-buxton-2016/ccpn-ccp-biosim-joint-conference-2016) (Buxton, UK)
 
+**Aug 4.** [New York Structural Biology Discussion Group Summer 2016 Meeting](https://www.eventbrite.com/e/new-york-structural-biology-discussion-group-summer-2016-meeting-tickets-26286099431?ref=estwenivtefor001) (New York, US)
+
 **Aug 7-9.** [RosettaCon](http://www.rosettadesigngroup.com/rosettacon/) (Leavenworth, US)
 
 **Aug 19.** [QuantumWise: ATK hands-on workshop](http://quantumwise.com/publications/quantumwise-news/item/956-hands-on-workshop-in-copenhagen-denmark) (Copenhagen, Netherlands)
