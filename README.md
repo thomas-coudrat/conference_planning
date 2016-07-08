@@ -123,6 +123,8 @@ Biophysics in Drug Discovery 2016](http://www.ldorganisation.com/v2/produits.php
 
 **Jun 13-17.**	[Workshop: Path Integral Quantum Mechanics: Theory, Simulation and Application](http://www.cecam.org/workshop-0-1314.html) (Lausanne, Switzerland)
 
+**Jun 13-17.** [17th International Conference on QSAR in Environmental and Health Sciences](http://www.qsar2016.com/) (Miami, US)
+
 **Jun 15-17.** [OpenEye scientific EuroCUP IX](http://eyesopen.com/events/eurocup-ix) (Nice, France)
 
 **Jun 16-17.** [Cresset European User Group Meeting 2016](http://www.cresset-group.com/european-user-group-meeting-2016/) (Cambridge, UK)
