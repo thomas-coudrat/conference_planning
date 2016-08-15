@@ -195,6 +195,8 @@ Biophysics in Drug Discovery 2016](http://www.ldorganisation.com/v2/produits.php
 
 **Sept 4-8.** [21st European Symposium on Quantitative Structure-Activity Relationship](http://www.ldorganisation.com/v2/produits.php?cle_menus=1238915962) (Verona, Italy)
 
+**Sept 7-9.** [CCP4 Northern Protein Structure Workshop 2016](https://www2.le.ac.uk/departments/molcellbiol/staff/khushwant-sidhu/ccp4) (Carlisle, UK)
+
 **Sept 9.** [Big Data in Biomolecular Systems](https://bigdatamgms.wordpress.com/) (London, UK)
 
 **Sept 11-23.**	[7th Time-Dependent Density-Functional Theory: Prospects and Applications](http://www.benasque.org/2016tddft/) (Benasque, Spain)
