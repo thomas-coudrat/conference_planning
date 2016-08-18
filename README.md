@@ -74,6 +74,8 @@
 
 **Apr 18-19.**	[Protein Congress](http://www.proteins-congress.com/) (London, UK)
 
+**Apr 21.** [27th Symposium on Medicinal Chemistry in Eastern England](http://www.rsc.org/events/detail/19543/27th-symposium-on-medicinal-chemistry-in-eastern-england) (Hatfield, UK)
+
 **Apr 24-27.** [An Introductory Workshop to the Rosetta Protein Modeling Suite](http://structbio.vanderbilt.edu/comp/workshops/rosetta_apr2016/) (Nashville, US)
 
 **Apr 25-26.**	[Open Viz Conference](https://openvisconf.com/#home) (Boston, US)
@@ -185,6 +187,8 @@ Biophysics in Drug Discovery 2016](http://www.ldorganisation.com/v2/produits.php
 
 **Aug 7-9.** [RosettaCon](http://www.rosettadesigngroup.com/rosettacon/) (Leavenworth, US)
 
+**Aug 16-19.** [International Workshop on Biomembranes: The consequences of complexity](https://www.cecam.org/workshop-1330.html) (Espoo, Finland)
+
 **Aug 19.** [QuantumWise: ATK hands-on workshop](http://quantumwise.com/publications/quantumwise-news/item/956-hands-on-workshop-in-copenhagen-denmark) (Copenhagen, Netherlands)
 
 **Aug 28-Sept 1.** [Medicinal chemistry](http://www.ldorganisation.com/v2/produits.php?cle_menus=1238915829) (Manchester, UK)
@@ -201,6 +205,8 @@ Biophysics in Drug Discovery 2016](http://www.ldorganisation.com/v2/produits.php
 
 **Sept 11-23.**	[7th Time-Dependent Density-Functional Theory: Prospects and Applications](http://www.benasque.org/2016tddft/) (Benasque, Spain)
 
+**Sept 19-23.** [MSSC2016 - Ab initio Modelling in Solid State Chemistry](http://www.imperial.ac.uk/mssc2016) (London, UK)
+
 **Sept 20-23.** [Structural Bioinformatics 2016](http://www.ebi.ac.uk/training/events/2016/structural-bioinformatics-2016) (Cambridge, UK)
 
 **Sept 29-30.**	[In Silico Conference](http://www.insiliconf.org/) (San Diego, US)
@@ -212,6 +218,8 @@ Energy Surface, Polyradical Systems and Excited States ](http://oban.spst.tju.ed
 **Oct 12.** [Cheminformatics for Drug Design: Data, Models and Tools](https://www.soci.org/Events/Display-Event?EventCode=FCHEM481) (Duxford, UK)
 
 **Oct 13-15.** [4th International Bahçeşehir University (BAU) Drug Design Congress](http://baudrugdesign.com/) (Istanbul, Turkey)
+
+**Oct 19.** [UK-QSAR & Chemoinformatics Autumn Meeting 2016](https://www.eventbrite.co.uk/e/uk-qsar-chemoinformatics-autumn-meeting-2016-tickets-6784575849) (Sutton, UK)
 
 **Oct 26-28.** [RDKit User Group Meeting](https://www.eventbrite.com/e/5th-rdkit-user-group-meeting-tickets-22539677783) (Basel, Switzerland)
 
