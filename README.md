@@ -199,11 +199,19 @@ Biophysics in Drug Discovery 2016](http://www.ldorganisation.com/v2/produits.php
 
 **Sept 4-8.** [21st European Symposium on Quantitative Structure-Activity Relationship](http://www.ldorganisation.com/v2/produits.php?cle_menus=1238915962) (Verona, Italy)
 
+**Sept 6.** [ChemAxon User Meeting in Tokyo](https://www.chemaxon.com/events/conferences/chemaxon-user-meeting-in-tokyo/) (Tokyo, Japan)
+
 **Sept 7-9.** [CCP4 Northern Protein Structure Workshop 2016](https://www2.le.ac.uk/departments/molcellbiol/staff/khushwant-sidhu/ccp4) (Carlisle, UK)
+
+**Sept 8.** [ChemAxon User Meeting in Osaka](https://www.chemaxon.com/events/conferences/chemaxon-user-meeting-in-osaka/) (Osaka, Japan)
 
 **Sept 9.** [Big Data in Biomolecular Systems](https://bigdatamgms.wordpress.com/) (London, UK)
 
+**Sept 11-15.** [6th EuCheMS Chemistry Congress](http://euchems-seville2016.eu/) (Sevilla, Spain)
+
 **Sept 11-23.**	[7th Time-Dependent Density-Functional Theory: Prospects and Applications](http://www.benasque.org/2016tddft/) (Benasque, Spain)
+
+**Sept 13-15.** [ChemAxon 9th US Annual Meeting](https://www.chemaxon.com/events/annual-meeting-boston-2016/) (Boston, US)
 
 **Sept 19-23.** [MSSC2016 - Ab initio Modelling in Solid State Chemistry](http://www.imperial.ac.uk/mssc2016) (London, UK)
 
@@ -220,6 +228,10 @@ Energy Surface, Polyradical Systems and Excited States ](http://oban.spst.tju.ed
 **Oct 13-15.** [4th International Bahçeşehir University (BAU) Drug Design Congress](http://baudrugdesign.com/) (Istanbul, Turkey)
 
 **Oct 19.** [UK-QSAR & Chemoinformatics Autumn Meeting 2016](https://www.eventbrite.co.uk/e/uk-qsar-chemoinformatics-autumn-meeting-2016-tickets-6784575849) (Sutton, UK)
+
+**Oct 24-28.** [Opentox Euro 2016](http://www.opentox.net/events/opentox-euro-2016) (Rheinfelden, Germany)
+
+**Oct 25.** [Nano modelling workshop](http://www.enanomapper.net/events/nano-modelling-workshop) (Rheinfelden, Germany)
 
 **Oct 26-28.** [RDKit User Group Meeting](https://www.eventbrite.com/e/5th-rdkit-user-group-meeting-tickets-22539677783) (Basel, Switzerland)
 
