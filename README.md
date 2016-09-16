@@ -3,7 +3,7 @@
 
 ### Events
 
-Events are located here in [data/CompChemEvents.csv](https://github.com/thomas-coudrat/conference_planning/data/CompChemEvents.csv)
+Events are located here in ./data/CompChemEvents.csv
 
 ### Contributions
 
